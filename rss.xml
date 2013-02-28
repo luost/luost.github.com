@@ -3,25 +3,22 @@
   <channel>
     <title>r00t&#39;s blog</title>
     <link>http://luost.github.com</link>
-    <pubDate>2013-02-27 07:19:36 +0800</pubDate>
+    <pubDate>2013-02-28 11:24:53 +0800</pubDate>
     <item>
-      <title>你的第一篇博客</title>
-      <link>http://luost.github.com/2012/new-born.html</link>
-      <pubDate>2012-12-22 12:00:00 +0800</pubDate>
-      <description>&lt;h1&gt;感谢你使用Gor编写博客&lt;/h1&gt;
+      <title>采用Gor来维护你的Github Pages</title>
+      <link>http://luost.github.com/other/采用Gor来维护你的Github Pages/</link>
+      <pubDate>2013-02-28 12:00:00 +0800</pubDate>
+      <description>&lt;h2&gt;Gor解析的md文件格式：&lt;/h2&gt;
 
-&lt;h2&gt;本文位于 posts/first-blog.md , 你可以任何删掉,修改这个文件&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;文件开头是当前文章的元数据&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;文件开头是当前文章的元数据&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. date为自动生成, 当然,你可以修改,这是你的自由
+2. permalink 可以是固定地址,也可以由gor为你自动生成
+3. categories 就是分类, 可以多个
+4. tags 同理,多个标签也是很常见的
 
-&lt;ol&gt;
-&lt;li&gt;date为自动生成, 当然,你可以修改,这是你的自由&lt;/li&gt;
-&lt;li&gt;permalink 可以是固定地址,也可以由gor为你自动生成&lt;/li&gt;
-&lt;li&gt;categories 就是分类, 可以多个&lt;/li&gt;
-&lt;li&gt;tags 同理,多个标签也是很常见的&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;请确保文件使用UTF8 without BOM编码&lt;/p&gt;
+*请确保文件使用UTF8 without BOM编码*
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h2&gt;你可以通过执行下面的语句来新建一篇博客:&lt;/h2&gt;
 
@@ -63,8 +60,6 @@ git push
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h2&gt;用gor编写博客将会是一件很开心的事,如果有任何意见或建议,欢迎到 &lt;a href=&#34;http://github.com/wendal/gor&#34;&gt;gor的官网&lt;/a&gt; 提交issue&lt;/h2&gt;
-
-&lt;h1&gt;祝你使用愉快&lt;/h1&gt;
 </description>
     </item>
   </channel>
