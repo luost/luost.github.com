@@ -1,4 +1,6 @@
-luost.github.com
-================
+Visit http://github.com/wendal/gor
 
-吃小朋友的个人博客
+## License
+
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
+
